@@ -3,7 +3,7 @@ entries:
   symbiote-chart:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-02-10T12:05:54.0920786+02:00"
+    created: "2023-02-10T13:07:01.0945521+02:00"
     dependencies:
     - name: aam
       repository: ""
@@ -37,6 +37,6 @@ entries:
     name: symbiote-chart
     type: application
     urls:
-    - https://github.com/iotfedsproject/helm-charts/symbiote-chart-0.1.0.tgz
+    - https://iotfedsproject.github.io/helm-charts/symbiote-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2023-02-10T12:05:54.0828947+02:00"
+generated: "2023-02-10T13:07:01.0772942+02:00"
